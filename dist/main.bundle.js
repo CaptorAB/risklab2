@@ -2055,10 +2055,10 @@ webpackJsonp(
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Svensk ränta", "RÄNTA", "asset", null, 2));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Hedgefonder", "HEDGE", "asset", null, 3));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Lång ränta (20 år)", "20ÅR", "asset", null, 4));
-                    this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Lång ränta (Garanti)", "GARANT", "asset", null, 5));
+                    this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Lång ränta (Garanti)", "GARANTI", "asset", null, 5));
                     //this.instruments.push(new Instrument("Iris ränta", "IRIS", "asset", null, 5));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Nollrisk", "RISKFRI", "asset", null, 10));
-                    this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Åtagande", "ÅTAG", "liability", null, 11));
+                    this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Garanti", "GARANTI", "liability", null, 11));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Överskott", "ÖVERSK", "liability", null, 6));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Tillgångar", "TILLG", "balance", null, 1));
                     this.instruments.push(new __WEBPACK_IMPORTED_MODULE_4__common_instrument__["a" /* Instrument */]("Åtagande", "ÅTAG", "balance", null, 7));
